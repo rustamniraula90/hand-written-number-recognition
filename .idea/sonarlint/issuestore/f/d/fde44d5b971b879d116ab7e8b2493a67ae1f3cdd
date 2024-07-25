@@ -1,0 +1,9 @@
+
+
+java:S2259Æ"GA "NullPointerException" could be thrown; "prevLayer" is nullable here.(Êÿå„üÿÿÿÿ8ãì‡û1J$b3c74531-59dc-4497-9a08-1ef0c9eafacc
+n	java:S106–"+Replace this use of System.out by a logger.(‚”ô½8—ãì‡û1J$38beab69-bae4-4a3b-8def-459cdb7b1d25
+–
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.(äÍ‡ 8˜ãì‡û1J$ed995234-079d-44c3-a6f6-34659e9615c6
+–
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(öÿ«ò8Ââí‡û1J$e2f96710-4c9d-4de8-b680-139c064e7d0e
+s	java:S106ó"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8›ãì‡û1J$9abd0b04-8368-4526-9efd-02451ede3cbe
